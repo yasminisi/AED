@@ -9,7 +9,7 @@ Año de cursada: 2023
 
 Legajo: 176.719-7
 
-Apellido: Apaza
+Apellido: Isi
 
-Nombre: Federico Hernán 
+Nombre: Yasmin 
 ```
